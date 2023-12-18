@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScapperRendaVariavel", "WebScapperRendaVariavel\WebScapperRendaVariavel.csproj", "{7E202B30-63A1-4D32-BA0F-E3A81051F2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E202B30-63A1-4D32-BA0F-E3A81051F2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E202B30-63A1-4D32-BA0F-E3A81051F2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E202B30-63A1-4D32-BA0F-E3A81051F2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E202B30-63A1-4D32-BA0F-E3A81051F2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38878D9A-BE44-4F59-A82A-4119CE4F520B}
+	EndGlobalSection
+EndGlobal
