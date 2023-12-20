@@ -1,0 +1,13 @@
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\bin\Debug\WebScapperRendaVariavel.exe.config
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\bin\Debug\WebScapperRendaVariavel.exe
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\bin\Debug\WebScapperRendaVariavel.pdb
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\obj\Debug\WebScapperRendaVariavel.csproj.AssemblyReference.cache
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\obj\Debug\WebScapperRendaVariavel.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\obj\Debug\WebScapperRendaVariavel.csproj.CopyComplete
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\obj\Debug\WebScapperRendaVariavel.exe
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\obj\Debug\WebScapperRendaVariavel.pdb
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Iago\source\repos\WebScapperRendaVariavel\WebScapperRendaVariavel\bin\Debug\HtmlAgilityPack.xml
