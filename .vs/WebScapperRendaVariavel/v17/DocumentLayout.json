@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|c:\\users\\iagoo\\source\\repos\\webscapperrendavariavel\\webscapperrendavariavel\\investidor10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|solutionrelative:webscapperrendavariavel\\investidor10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\webscapperrendavariavel\\b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|solutionrelative:webscapperrendavariavel\\b3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\webscapperrendavariavel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|solutionrelative:webscapperrendavariavel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\webscapperrendavariavel\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|solutionrelative:webscapperrendavariavel\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\webscapperrendavariavel\\fundoimobiliario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|solutionrelative:webscapperrendavariavel\\fundoimobiliario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\webscapperrendavariavel\\investimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6136A993-D853-4B47-9611-D515E3B25DA1}|WebScapperRendaVariavel\\WebScapperRendaVariavel.csproj|solutionrelative:webscapperrendavariavel\\investimentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Investimentos.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\Investimentos.cs",
+              "RelativeDocumentMoniker": "WebScapperRendaVariavel\\Investimentos.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\Investimentos.cs",
+              "RelativeToolTip": "WebScapperRendaVariavel\\Investimentos.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAADgv0wAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T03:27:24.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FundoImobiliario.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\FundoImobiliario.cs",
+              "RelativeDocumentMoniker": "WebScapperRendaVariavel\\FundoImobiliario.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\FundoImobiliario.cs",
+              "RelativeToolTip": "WebScapperRendaVariavel\\FundoImobiliario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T03:28:26.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\Functions.cs",
+              "RelativeDocumentMoniker": "WebScapperRendaVariavel\\Functions.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\Functions.cs",
+              "RelativeToolTip": "WebScapperRendaVariavel\\Functions.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAApwPgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T03:41:30.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Investidor10.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\Investidor10.cs",
+              "RelativeDocumentMoniker": "WebScapperRendaVariavel\\Investidor10.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\Investidor10.cs",
+              "RelativeToolTip": "WebScapperRendaVariavel\\Investidor10.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T03:46:18.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "B3.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\B3.cs",
+              "RelativeDocumentMoniker": "WebScapperRendaVariavel\\B3.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\B3.cs",
+              "RelativeToolTip": "WebScapperRendaVariavel\\B3.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:22:25.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\Program.cs",
+              "RelativeDocumentMoniker": "WebScapperRendaVariavel\\Program.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapperRendaVariavel\\WebScapperRendaVariavel\\Program.cs",
+              "RelativeToolTip": "WebScapperRendaVariavel\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T03:26:55.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

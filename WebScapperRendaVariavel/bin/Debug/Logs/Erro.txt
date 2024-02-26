@@ -1,0 +1,1 @@
+2024-02-26 00:00:35:1089 - Erro: Erro de rede ou específico à instância ao estabelecer conexão com o SQL Server. O servidor não foi encontrado ou não estava acessível. Verifique se o nome da instância está correto e se o SQL Server está configurado para permitir conexões remotas. (provider: Named Pipes Provider, error: 40 - Não foi possível abrir uma conexão com o SQL Server)
